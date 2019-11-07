@@ -1,0 +1,85 @@
+{
+  "name": "chiptune",
+  "version": "1.0",
+  "description": "GameBoy generated sounds",
+  "author": "",
+  "repositories": [
+    "maxwellito/vivus",
+    "maxwellito/triangulart",
+    "maxwellito/commitbeat",
+    "maxwellito/breaklock"
+  ],
+  "pathBase": "/public/livesets/",
+  "sampleGroups": [
+    {
+      "name": "Kick",
+      "icon": "KC",
+      "samples": [
+        { "name": "kick_1", "url": "gamebot/kick_1.wav" },
+        { "name": "kick_3", "url": "gamebot/kick_3.wav" },
+        { "name": "kick_4", "url": "gamebot/kick_4.wav" },
+        { "name": "kick_6", "url": "gamebot/kick_6.wav" }
+      ]
+    },
+    {
+      "name": "Perc",
+      "icon": "PRC",
+      "samples": [
+        { "name": "perc_1", "url": "gamebot/perc_1.wav" },
+        { "name": "perc_2", "url": "gamebot/perc_2.wav" }
+      ]
+    },
+    {
+      "name": "OpenHat",
+      "icon": "OH",
+      "samples": [
+        { "name": "ohat_1", "url": "gamebot/ohat_1.wav" },
+        { "name": "ohat_2", "url": "gamebot/ohat_2.wav" }
+      ]
+    },
+    {
+      "name": "PulseLow",
+      "icon": "PL",
+      "samples": [
+        { "name": "plse_1", "url": "gamebot/plse_1.wav" },
+        { "name": "plse_2", "url": "gamebot/plse_2.wav" },
+        { "name": "plse_4", "url": "gamebot/plse_4.wav" },
+        { "name": "plse_6", "url": "gamebot/plse_6.wav" }
+      ]
+    },
+    {
+      "name": "PulseHigh",
+      "icon": "PH",
+      "samples": [
+        { "name": "plse_5", "url": "gamebot/plse_5.wav" },
+        { "name": "plse_7", "url": "gamebot/plse_7.wav" },
+        { "name": "plse_9", "url": "gamebot/plse_9.wav" },
+        { "name": "plse_x", "url": "gamebot/plse_X.wav" }
+      ]
+    },
+    {
+      "name": "Crash",
+      "icon": "CH",
+      "samples": [
+        { "name": "crsh_1", "url": "gamebot/crsh_1.wav" },
+        { "name": "crsh_2", "url": "gamebot/crsh_2.wav" }
+      ]
+    },
+    {
+      "name": "HighHat",
+      "icon": "HHT",
+      "samples": [
+        { "name": "hhat_1", "url": "gamebot/hhat_1.wav" },
+        { "name": "hhat_2", "url": "gamebot/hhat_2.wav" }
+      ]
+    },
+    {
+      "name": "ARP",
+      "icon": "ARP",
+      "samples": [
+        { "name": "arp_1", "url": "gamebot/arp__1.wav" },
+        { "name": "arp_2", "url": "gamebot/arp__2.wav" }
+      ]
+    }
+  ]
+}

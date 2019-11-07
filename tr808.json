@@ -1,0 +1,90 @@
+{
+  "name": "TR-808",
+  "version": "1.1",
+  "description": "Classic TR-808 samples",
+  "author": "mxwllt",
+  "repositories": [
+    "facebook/react",
+    "reduxjs/react-redux",
+    "reduxjs/redux",
+    "webpack/webpack"
+  ],
+  "pathBase": "/public/livesets/",
+  "sampleGroups": [
+    {
+      "name": "Drumkit",
+      "icon": "CH",
+      "samples": [
+        { "name": "CH____", "url": "tr808/CH/CH.WAV" },
+        { "name": "CL____", "url": "tr808/CL/CL.WAV" }
+      ]
+    },
+    {
+      "name": "clap",
+      "icon": "CP",
+      "samples": [
+        { "name": "RS____", "url": "tr808/RS/RS.WAV" },
+        { "name": "HC00__", "url": "tr808/HC/HC00.WAV" },
+        { "name": "HT00__", "url": "tr808/HT/HT00.WAV" },
+        { "name": "CP____", "url": "tr808/CP/CP.WAV" }
+      ]
+    },
+    {
+      "name": "kick",
+      "icon": "SD",
+      "samples": [
+        { "name": "HT25__", "url": "tr808/HT/HT25.WAV" },
+        { "name": "MT50__", "url": "tr808/MT/MT50.WAV" },
+        { "name": "SD0025", "url": "tr808/SD/SD0025.WAV" },
+        { "name": "SD0050", "url": "tr808/SD/SD0050.WAV" }
+      ]
+    },
+    {
+      "name": "minimal",
+      "icon": "00",
+      "samples": [
+        { "name": "HT25__", "url": "tr808/HT/HT25.WAV" },
+        { "name": "OH10__", "url": "tr808/OH/OH10.WAV" },
+        { "name": "BD7500", "url": "tr808/BD/BD7500.WAV" },
+        { "name": "MT00__", "url": "tr808/MT/MT00.WAV" }
+      ]
+    },
+    {
+      "name": "highconga",
+      "icon": "HC",
+      "samples": [
+        { "name": "HC10__", "url": "tr808/HC/HC10.WAV" },
+        { "name": "HC25__", "url": "tr808/HC/HC25.WAV" },
+        { "name": "HC50__", "url": "tr808/HC/HC50.WAV" },
+        { "name": "HC75__", "url": "tr808/HC/HC75.WAV" }
+      ]
+    },
+    {
+      "name": "hightomtom",
+      "icon": "HT",
+      "samples": [
+        { "name": "HT10__", "url": "tr808/HT/HT10.WAV" },
+        { "name": "HT25__", "url": "tr808/HT/HT25.WAV" },
+        { "name": "HT50__", "url": "tr808/HT/HT50.WAV" },
+        { "name": "HT75__", "url": "tr808/HT/HT75.WAV" }
+      ]
+    },
+    {
+      "name": "midtomtom",
+      "icon": "MT",
+      "samples": [
+        { "name": "MT10__", "url": "tr808/MT/MT10.WAV" },
+        { "name": "MT25__", "url": "tr808/MT/MT25.WAV" },
+        { "name": "MT50__", "url": "tr808/MT/MT50.WAV" },
+        { "name": "MT75__", "url": "tr808/MT/MT75.WAV" }
+      ]
+    }
+  ],
+  "themed": {
+    "shade-base": "#000",
+    "shade-dark": "#011",
+    "shade": "#044",
+    "shade-light": "#0ff",
+    "shade-active-on": "#f0f"
+  }
+}

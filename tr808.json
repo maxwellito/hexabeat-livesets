@@ -9,7 +9,7 @@
     "reduxjs/redux",
     "webpack/webpack"
   ],
-  "pathBase": "/public/livesets/",
+  "pathBase": "/hexabeat-livesets/",
   "sampleGroups": [
     {
       "name": "Drumkit",

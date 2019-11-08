@@ -9,7 +9,7 @@
     "maxwellito/commitbeat",
     "maxwellito/breaklock"
   ],
-  "pathBase": "/public/livesets/",
+  "pathBase": "/hexabeat-livesets/",
   "sampleGroups": [
     {
       "name": "Kick",

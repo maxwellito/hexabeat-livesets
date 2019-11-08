@@ -81,5 +81,12 @@
         { "name": "arp_2", "url": "gamebot/arp__2.wav" }
       ]
     }
-  ]
+  ],
+  "theme": {
+    "shade-base": "#000",
+    "shade-dark": "#010",
+    "shade": "#040",
+    "shade-light": "#0f0",
+    "shade-active-on": "#f6c408"
+  }
 }
